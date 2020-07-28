@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3, 45]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-3.2, 40]}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-2.7, 38]}}]}

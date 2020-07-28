@@ -1,0 +1,32 @@
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.4459898, "lng": -3.703723799999999}, "viewport": {"northeast": {"lat": 40.44736478029149, "lng": -3.702273619708497}, "southwest": {"lat": 40.4446668197085, "lng": -3.704971580291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "9b3d1fc0cf49aab08368f824720c71d345f517c1", "name": "PARADA DE TAXI", "place_id": "ChIJ1y1tAiMpQg0R5YX42OMqm7Q", "plus_code": {"compound_code": "C7WW+9G Madrid, Spain", "global_code": "8CGRC7WW+9G"}, "reference": "ChIJ1y1tAiMpQg0R5YX42OMqm7Q", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "vicinity": "Calle de Santa Engracia, 179, Madrid"}], "status": "OK"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.4455564, "lng": -3.7142964}, "viewport": {"northeast": {"lat": 40.4470122302915, "lng": -3.712994669708498}, "southwest": {"lat": 40.4443142697085, "lng": -3.715692630291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "2708bd11af19f259f3e80e3f28f9a9ff40299396", "name": "Parada taxi", "place_id": "ChIJudi5-WApQg0R1bZc7USxQpA", "plus_code": {"compound_code": "C7WP+67 Madrid, Spain", "global_code": "8CGRC7WP+67"}, "reference": "ChIJudi5-WApQg0R1bZc7USxQpA", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "vicinity": "Avenida de la Reina Victoria, 57, Madrid"}], "status": "OK"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.43957899999999, "lng": -3.7181425}, "viewport": {"northeast": {"lat": 40.4409390802915, "lng": -3.716780319708498}, "southwest": {"lat": 40.4382411197085, "lng": -3.719478280291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "fd59d960f0228f7005c1959e0575f5fba4e6f7aa", "name": "Parada Taxis Fundaci\u00f3n Jim\u00e9nez D\u00edaz", "place_id": "ChIJTaKshEcpQg0RF2jb78qX9qM", "plus_code": {"compound_code": "C7QJ+RP Madrid, Spain", "global_code": "8CGRC7QJ+RP"}, "reference": "ChIJTaKshEcpQg0RF2jb78qX9qM", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "vicinity": "Madrid"}], "status": "OK"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.43957899999999, "lng": -3.7181425}, "viewport": {"northeast": {"lat": 40.4409390802915, "lng": -3.716780319708498}, "southwest": {"lat": 40.4382411197085, "lng": -3.719478280291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "fd59d960f0228f7005c1959e0575f5fba4e6f7aa", "name": "Parada Taxis Fundaci\u00f3n Jim\u00e9nez D\u00edaz", "place_id": "ChIJTaKshEcpQg0RF2jb78qX9qM", "plus_code": {"compound_code": "C7QJ+RP Madrid, Spain", "global_code": "8CGRC7QJ+RP"}, "reference": "ChIJTaKshEcpQg0RF2jb78qX9qM", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "vicinity": "Madrid"}], "status": "OK"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.4312662, "lng": -3.706727}, "viewport": {"northeast": {"lat": 40.4326232302915, "lng": -3.705500869708497}, "southwest": {"lat": 40.42992526970851, "lng": -3.708198830291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "afbf21a90d47855c1c0eee28228ef8c72ef65b93", "name": "Parada Taxi Plaza", "place_id": "ChIJSUvvUlcpQg0RvGv_WMVu7xs", "plus_code": {"compound_code": "C7JV+G8 Madrid, Spain", "global_code": "8CGRC7JV+G8"}, "rating": 1, "reference": "ChIJSUvvUlcpQg0RvGv_WMVu7xs", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "user_ratings_total": 1, "vicinity": "Plaza del Conde del Valle de S\u00fachil, 16, Madrid"}], "status": "OK"}
+
+{"html_attributions": [], "results": [], "status": "ZERO_RESULTS"}
+
+{"html_attributions": [], "results": [{"business_status": "OPERATIONAL", "geometry": {"location": {"lat": 40.43421439999999, "lng": -3.7211386}, "viewport": {"northeast": {"lat": 40.4355788302915, "lng": -3.719800469708497}, "southwest": {"lat": 40.4328808697085, "lng": -3.722498430291502}}}, "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", "id": "c9c4261850ea9d77739ff961e7a8a7ce34c6155d", "name": "PArada de buses Larrea", "photos": [{"height": 1080, "html_attributions": ["<a href=\"https://maps.google.com/maps/contrib/102189779710162580221\">Julio Vazquez</a>"], "photo_reference": "CmRaAAAAaovF-sErsOhZD7Pi8JqJzlZIfGtmYvH1jg_rVlPm28gSEEjU9pr2USR4JQmS5szmxyCpdAbcQ6Cz_GrUPIzBRoFelLY84xchJ9dgr3UIbmP0yo6soPA_VkaxVFKA1C4yEhC5PkqvK_jzg7hnrOxcsZeqGhQlAggjTRU06Axuqo0YKzWAq5uCjw", "width": 1920}], "place_id": "ChIJ8dfXSEAoQg0RtyWPbqYfseQ", "plus_code": {"compound_code": "C7MH+MG Madrid, Spain", "global_code": "8CGRC7MH+MG"}, "rating": 3.7, "reference": "ChIJ8dfXSEAoQg0RtyWPbqYfseQ", "scope": "GOOGLE", "types": ["taxi_stand", "point_of_interest", "establishment"], "user_ratings_total": 3, "vicinity": "Paseo de Moret, 2, Madrid"}], "status": "OK"}
+
